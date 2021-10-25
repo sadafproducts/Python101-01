@@ -14,4 +14,4 @@ os.rename(r"D:\Python01.txt", r"D:\_PythonTempTest0\01_file.txt") # Move the fil
 # Create another file and then delete it
 open(r"D:\_PythonTempTest0\02_file.txt", "a")
 os.remove(r"D:\_PythonTempTest0\02_file.txt") 
-# End of this example.
+# End of this example
